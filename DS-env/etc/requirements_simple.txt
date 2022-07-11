@@ -1,0 +1,14 @@
+numpy
+scipy
+pandas
+matplotlib
+scikit-learn
+tensorflow
+torch
+xgboost
+lightgbm
+pillow
+opencv-python
+opencv-contrib-python
+jupyter
+jupyterlab
